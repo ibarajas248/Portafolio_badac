@@ -1,7 +1,7 @@
 # Portafolio - Asistente de Administración de Sistemas y Bases de Datos
 
 ## 📄 **Información Personal**
-- **Nombre**: [Tu Nombre]  
+- **Nombre**: Iván David Barajas Hurtado
 - **Correo Electrónico**: [tuemail@example.com]  
 - **Teléfono**: [Número de contacto]  
 - **LinkedIn**: [Tu perfil de LinkedIn](https://www.linkedin.com)  
@@ -10,7 +10,10 @@
 ---
 
 ## 🎯 **Resumen Profesional**
-Profesional/Técnico(a) en administración de sistemas Linux y bases de datos, con más de 2 años de experiencia en gestión de datos e infraestructura digital. Destaco por mis habilidades comunicativas, enfoque en la resolución de problemas y capacidad para trabajar en entornos colaborativos.
+
+Soy Administrador de Bases de Datos e Historiador del Arte con amplia experiencia en el diseño, gestión e implementación de infraestructuras de datos. Mi enfoque se centra en la extracción, transformación y análisis eficiente de grandes volúmenes de información, facilitando la toma de decisiones estratégicas. Poseo habilidades avanzadas en la optimización y creación de modelos analíticos utilizando técnicas estadísticas, inteligencia artificial y proyectos de machine learning.
+
+Me apasiona la mejora continua de procesos y el diseño de soluciones digitales innovadoras basadas en datos. Además, tengo una sólida experiencia en la gestión de bases de datos para proyectos artísticos, culturales y patrimoniales, integrando la tecnología al servicio de la preservación y difusión del patrimonio.
 
 ---
 
